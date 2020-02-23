@@ -1,0 +1,21 @@
+.container {
+    margin-top: 10%;
+}
+
+
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #f8f9fa;
+    color:black;
+    text-align: center;
+    font-family: 'DM Sans', ;
+    font-size: small;
+ }
+
+.copyright {
+    margin: 20px;
+}
